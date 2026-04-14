@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Orinta 👋
 
-<!--
-**orinta2000/orinta2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst passionate about turning data into actionable insights  
+📊 Python | SQL | Power BI  
 
-Here are some ideas to get you started:
+## 🔥 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 [Customer Behavior Analysis](https://github.com/orinta2000/customer-behavior-and-shopping-trends-project)
+
+- End-to-end data project  
+- Python + SQL + Power BI  
+
+
+## 🛠️ Skills
+
+- Python (pandas, data analysis)
+- SQL (PostgreSQL)
+- Power BI (dashboards & visualization)
